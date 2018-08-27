@@ -16,6 +16,8 @@ return [
     'boxCodeOther' => 'ar',
     'translations' => 'You can update Translation from here',
     'calendarLanguage' => 'en',
+    'PropertiesForSale' => 'Sale Properties',
+    'PropertiesForRent' => 'Rent Properties',
 
 
     // Main Menu & General Titles

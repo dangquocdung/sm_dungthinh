@@ -16,6 +16,8 @@ return [
     'boxCodeOther' => 'en',
     'translations' => ' يمكنك تعديل الترجمة من هنا',
     'calendarLanguage' => 'ar',
+    'PropertiesForSale' => 'Sale Properties',
+    'PropertiesForRent' => 'Rent Properties',
 
     // Main Menu & General Titles
     'home' => 'الرئيسية',
